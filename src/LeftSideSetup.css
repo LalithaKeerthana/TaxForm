@@ -1,0 +1,20 @@
+.left-side-setup {
+    width: 180px;
+    margin-left: 30px;
+    margin-top: 250px;
+    position: fixed;
+  }
+  
+ 
+  
+  .left-side-setup select {
+    background-color: black;
+    color: aliceblue;
+    
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+
+  label{
+    color: aliceblue;
+  }

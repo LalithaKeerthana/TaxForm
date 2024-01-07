@@ -1,0 +1,30 @@
+/* styles.css */
+
+/* Common styles for the form container */
+
+  
+  /* Styles for LeftSideSetup */
+  .form-container1 {
+    float: left;
+  }
+  
+  /* Styles for the select elements */
+  
+  /* Styles for the form */
+  .bg-black {
+    background-color: black;
+  }
+  
+  /* Styles for form elements */
+  .form-control {
+    background-color: black;
+    color: white;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 10px; /* Increase padding for better appearance */
+    margin-bottom: 15px; /* Increase margin for better appearance */
+    font-size: 16px; /* Adjust font size as needed */
+  }
+  
+  /* Add more styles as needed */
+  

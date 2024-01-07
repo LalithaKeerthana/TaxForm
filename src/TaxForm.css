@@ -1,0 +1,52 @@
+/* src/TaxForm.css */
+.taxform {
+    width: 1100px;
+    height: 820px;
+    border: 1px solid #000000;
+    padding: 20px;
+    box-sizing: border-box;
+    margin-top: 0px;
+    position: sticky;
+  }
+  
+  .form-row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 10px;
+    
+  }
+  input {
+    position: relative;
+    padding: 10px;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    transition: box-shadow 0.3s ease-in-out;
+  }
+  
+  /* Hover effect */
+  input:hover {
+    box-shadow: 0 0 20px rgba(151, 245, 255, 0.8), inset 0 0 20px rgba(0, 0, 0, 0.1);
+    background: linear-gradient(45deg, #121212, #0d0d0d); /* Adjust the gradient colors */
+ border-color: aqua; }
+  
+  /* Focus effect */
+  input:focus {
+    outline: none;
+    box-shadow: 0 0 20px rgba(255, 255, 255, 1), inset 0 0 20px rgba(0, 0, 0, 0.2);
+    background: linear-gradient(45deg, #d0d0d0, #c0c0c0);
+  }
+  .form-column {
+    flex: 1;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid #090909;
+    margin-right: 0px;
+  }
+  .taxform{
+    margin-left: 190px;
+  }
+  #TS,
+#TD {
+  margin-top: 30px;
+}
+  
