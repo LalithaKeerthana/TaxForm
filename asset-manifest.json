@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TaxForm/static/css/main.973f0e7d.css",
+    "main.js": "/TaxForm/static/js/main.5b9c1c52.js",
+    "static/js/787.7131bf2d.chunk.js": "/TaxForm/static/js/787.7131bf2d.chunk.js",
+    "index.html": "/TaxForm/index.html",
+    "main.973f0e7d.css.map": "/TaxForm/static/css/main.973f0e7d.css.map",
+    "main.5b9c1c52.js.map": "/TaxForm/static/js/main.5b9c1c52.js.map",
+    "787.7131bf2d.chunk.js.map": "/TaxForm/static/js/787.7131bf2d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.973f0e7d.css",
+    "static/js/main.5b9c1c52.js"
+  ]
+}
